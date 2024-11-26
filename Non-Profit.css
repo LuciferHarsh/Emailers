@@ -65,11 +65,12 @@ body {
   display: flex;
   padding: 3px 12px;
   margin-top: 20px;
+  flex-direction: column;
+
   
   }
   h3{
   color: #1F3075;
-  padding: 12px 13px;
   }
   
   .orange-text{
