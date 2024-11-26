@@ -10,7 +10,7 @@ body {
     width: 700px;
     margin: 0 auto;
     padding:20px;
-    background: url('E:Earnow_Emailers/images/Corner1.png') top right no-repeat, url('E:Earnow_Emailers/images/Corner2.png') bottom left no-repeat, linear-gradient(#f3faff, #f3faff);
+    background: url('Corner1.png') top right no-repeat, url('Corner2.png') bottom left no-repeat, linear-gradient(#f3faff, #f3faff);
     background-size: auto,auto,auto;
     position: relative;
   }
