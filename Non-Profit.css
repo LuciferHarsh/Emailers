@@ -29,6 +29,17 @@ body {
   justify-content: center;
   
   }
+    .bottom a{
+    width: 12%;
+    }
+    .bottom img{
+    width: 50%;
+}
+    .bottom{
+    display: flex;
+    justify-content: center;
+    }
+
   #logo-img{
     width: 50%;
   }
