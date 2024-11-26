@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;    
+    background-color: #f4f4f4;
+    height: auto;
+  }
+  
+  .container {
+    width: 700px;
+    margin: 0 auto;
+    padding:20px;
+    background: url('E:Earnow_Emailers/images/Corner1.png') top right no-repeat, url('E:Earnow_Emailers/images/Corner2.png') bottom left no-repeat, linear-gradient(#f3faff, #f3faff);
+    background-size: auto,auto,auto;
+    position: relative;
+  }
+  
+  .container2 {
+    height: auto;
+  
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  .logo{
+  padding: 0px 113px;
+  display: flex;
+  justify-content: center;
+  
+  }
+  #logo-img{
+    width: 50%;
+  }
+  
+  h1 {
+    color: rgb(238, 93, 36);
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+  }
+  .blue-text{
+    margin: 0;
+    color: #1F3075;
+  }
+  .image{
+  width: 459px;
+  height: 308px;
+  padding: 0 10px;
+  display: flex;
+    
+  }
+  .text1{
+  display: flex;
+  padding: 3px 12px;
+  margin-top: 20px;
+  
+  }
+  h3{
+  color: #1F3075;
+  padding: 12px 13px;
+  }
+  
+  .orange-text{
+  margin: 0;
+  color: rgb(238, 93, 36);
+  
+  }
+  hr {
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 10px;
+  margin:31px 200px;
+  
+  
+  }
+  .icon_1{
+  height: 160px;
+  }
+  
+  .hpc{
+  color: #1F3075;
+  padding: 1px 115px;
+  white-space: nowrap;
+  margin-top: -81px;
+  }
+  .para1{
+  color: black;
+  padding: 0px 116px;
+  margin-top: -15px;
+  width: 406px;
+  }
+  .icon_2{
+  height: 200px;
+  width: 510px;
+  }
+  .os{
+  color: #1F3075;
+  padding: 1px 115px;
+  white-space: nowrap;
+  margin-top: -81px;
+  }
+  .para2{
+  color: black;
+  padding: 0px 116px;
+  margin-top: -15px;
+  width: 406px;
+  }
+  .icon_3{
+  height: 126px;
+  width: 510px;
+  }
+  .save{
+  color: #1F3075;
+  padding: 1px 115px;
+  white-space: nowrap;
+  margin-top: -81px;
+  }
+  .para3{
+  color: black;
+  padding: 0px 116px;
+  margin-top: -15px;
+  width: 406px;
+  }
+  .personal_image{
+  width: 127px;
+  height: 127px;
+  position: relative;
+  left: 6px;
+  margin-top: 16px;
+  }
+  .Personal{
+  height: 342px;
+  width: 591px;
+  }
+  .info{
+    width: 321px;
+    height: 0px;
+    padding: 59px 148px;
+    margin-top: -164px;
+  }
+  
+  .tel{
+  height: 36px;
+  width: 32px;
+  left: -14px;
+  top: 63px;
+  position: relative;
+  }
+  
+  .numbers{
+  display: flex;
+  flex-direction: column;
+  padding: 0px 30px;
+  top: -7px;
+  position: relative;
+  }
+  .numbers2{
+  display: flex;
+  flex-direction: column;
+  padding: 14px 30px;
+  top: -7px;
+  position: relative;
+  }
+  .vl {
+  border-right: 3px solid rgb(238, 93, 36);
+  height: 100px;
+  border-radius: 2px;
+  right: 120px;
+    position: relative;
+    top: -112px;
+  }
+  .mail_icon{
+  width: 32px;
+  height: 36px;
+  top: -180px;
+  position: relative;
+  right: -217px;
+  }
+  .mail{
+  display: flex;
+  top: -211px;
+  position: relative;
+  right: -253px;
+  }
+  
+  
