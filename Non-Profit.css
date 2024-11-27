@@ -61,7 +61,7 @@ body {
   display: flex;
     
   }
-  #text1{
+  .text1{
   display: flex;
   padding: 3px 12px;
   margin-top: 20px;
